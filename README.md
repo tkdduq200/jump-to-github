@@ -1,2 +1,2 @@
-seoul_temp_clean.csv파일은 dataset.ipynb파일에서 여는겁니다.
-예...
+ML 완료.
+Flask와 ML 병합 ing
